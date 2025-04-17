@@ -1,0 +1,2 @@
+# -Dot-Product-Accelerator
+AXI BASED DOT PRODUCT ACCELERATOR
